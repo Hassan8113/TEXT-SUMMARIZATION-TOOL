@@ -33,3 +33,5 @@ This is a simple Python tool that summarizes long text using Hugging Face Transf
 It summarizes this text:
 > "Artificial intelligence (AI) is transforming the world..."
 
+## OUTPUT
+![Image](https://github.com/user-attachments/assets/be087021-7cab-4d6f-9ec8-b35426c440a4)
